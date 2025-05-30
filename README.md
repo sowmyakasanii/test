@@ -21,6 +21,53 @@ This repository contains a Power BI report designed to provide key insights into
 - Identify top and bottom performing areas
 - Enable interactive exploration of data across dimensions
 
+---
+
+-  **Total Revenue KPI**
+ - Multiple charts and graphs showing:
+  - Revenue trends over time
+  - Category-wise or product-wise sales distribution
+  - Regional or segment performance
+  - Comparative analysis visuals
+
+---
+
+## 🧠 Key Features
+
+- ✅ Built with **Power BI Desktop**
+- 📈 Uses **DAX functions** to calculate key performance metrics
+- 🧮 Interactive visuals with slicers for better insights
+- 📊 One-page layout for easy viewing and interaction
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI Desktop
+- Excel (as a data source)
+- DAX (Data Analysis Expressions)
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open the `.pbix` file using Power BI Desktop.
+3. If needed, reconnect the Excel file (under **Transform data > Data source settings**).
+4. Interact with visuals using filters/slicers.
+
+---
+
+## 📌 Use Case
+
+This type of dashboard is useful for:
+- Business stakeholders tracking sales KPIs
+- Sales teams analyzing performance by region/product
+- Beginners showcasing Power BI and DAX skills on GitHub
+
+---
+
+
 **Key Pages & Visuals:**
 1. **KPI Summary**
    - Total Revenue
